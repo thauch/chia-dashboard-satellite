@@ -1,5 +1,5 @@
 {
-    "name": "chia-dashboard-satellite",
+    "name": "spare-dashboard-satellite",
     "version": "1.9.2",
     "repository": "https://github.com/felixbrucker/chia-dashboard-satellite.git",
     "bugs": "https://github.com/felixbrucker/chia-dashboard-satellite/issues",
