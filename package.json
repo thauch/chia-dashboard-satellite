@@ -20,7 +20,7 @@
         "pkg": "^5.2.1"
     },
     "bin": {
-        "chia-dashboard-satellite": "./main.js"
+        "spare-dashboard-satellite": "./main.js"
     },
     "scripts": {
         "start": "node main.js",

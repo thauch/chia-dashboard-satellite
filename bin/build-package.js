@@ -6,7 +6,7 @@ const archiver = require('archiver');
 
 const version = require('../lib/version');
 
-const name = 'chia-dashboard-satellite';
+const name = 'spare-dashboard-satellite';
 
 (async () => {
   const buildPath = join(__dirname, '..', 'build');
