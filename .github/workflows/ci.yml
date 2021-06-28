@@ -55,7 +55,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          args: --name Spare-Dashboard-Satellite
+          args: --name flax-Dashboard-Satellite
       - uses: AButler/upload-release-assets@v2.0
         with:
           files: 'release-archive-*/*.zip'
